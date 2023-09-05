@@ -73,6 +73,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DJcoder007/DJcoder007/output/snake.svg" alt="Snake animation" />
+
 
 ###
